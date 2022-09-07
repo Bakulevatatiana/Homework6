@@ -19,7 +19,6 @@ public class Main {
         int annualAmount=0;
         for (int i =1; i <13;i++) { annualAmount=annualAmount+amount;
 
-
             System.out.println("Месяц"+i+"сумма накоплений равна"+annualAmount +"рублей");}
         int amount1=29000;
         int annualAmount2=0;
